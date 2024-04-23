@@ -11,6 +11,9 @@ This contains a checklist for what exists in the current iteration. This list is
 		- [ ] modulo
 		- [ ] increment
 		- [ ] decrement
+  	- [ ] comparison
+   		- [ ] equal
+     		- [ ] greater/less than or equal to
 	- [ ] variable declaration
 		- [ ] types
 		- [ ] ptr's
